@@ -30,7 +30,7 @@
           <a title="Github" target="_blank" rel="nofollow" href="https://github.com/uxiaohan">
             <img class="w-8" src="@/assets/images/footer/github.svg" />
           </a>
-          <a title="韩小韩博客" target="_blank" href="https://www.vvhan.com/">
+          <a title="kuzhan.cc" target="_blank" href="https://kuzhan.cc/">
             <img class="w-8" src="@/assets/images/footer/blog.svg" />
           </a>
         </div>
