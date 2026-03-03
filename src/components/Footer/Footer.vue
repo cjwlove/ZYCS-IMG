@@ -27,12 +27,6 @@
           <a title="打赏站长" target="_blank" href="/reward.webp">
             <img class="w-8" src="@/assets/images/footer/shang.svg" />
           </a>
-          <a title="Github" target="_blank" rel="nofollow" href="https://github.com/uxiaohan">
-            <img class="w-8" src="@/assets/images/footer/github.svg" />
-          </a>
-          <a title="kuzhan.cc" target="_blank" href="https://kuzhan.cc/">
-            <img class="w-8" src="@/assets/images/footer/blog.svg" />
-          </a>
         </div>
         <span class="w-full font-bold text-lg text-center">酷站图床</span>
       </section>
