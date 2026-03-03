@@ -25,7 +25,7 @@
       <section class="flex flex-col items-center gap-2">
         <div class="flex gap-6">
         </div>
-        <span class="w-full font-bold text-lg text-center">酷站图床</span>
+        <span class="w-full font-bold text-lg text-center">img.kuzhan.cc</span>
       </section>
     </main>
   </footer>
