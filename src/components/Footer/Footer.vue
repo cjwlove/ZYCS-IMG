@@ -29,4 +29,6 @@
       </section>
     </main>
   </footer>
+  <script charset="UTF-8" id="MXA_COLLECT" src="//mxana.tacool.com/sdk.js"></script>
+<script>MXA.init({ id: "c2-yeIM4nEj" })</script>
 </template>
